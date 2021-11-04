@@ -1,0 +1,12 @@
+Nombre del Indicador: Cobertura de internet
+Definición: Se define como la proporción de personas de 5 años y más que han usado internet en los últimos 12 meses, desde cualquier lugar; en relación del total de personas del mismo rango de edad
+Unidad de medida: %
+Fuente de datos: INEC - Censo de Poblacion y Vivienda (CPV)
+Ciudad,si,no
+Machala,16.73,83.27
+Babahoyo,7.06,92.94
+Esmeraldas,13.74,86.26
+Guayaquil,17.11,82.89
+Portoviejo,11.95,88.05
+Santa Elena,4.96,95.04
+Santo Domingo,9.06,90.94
